@@ -1,0 +1,108 @@
+@
+Lawendowa 15
+150.0
+101
+!
+Telefon
+Samsung
+12.0
+2001
+!
+Kosiarka
+Elektryczna
+42.0
+2002
+!
+Kamera
+FULLHD 1080p
+20.0
+2003
+!
+Laptop
+Asus
+16.0
+2005
+!
+Samochod
+Polonez
+50.0
+2006
+@
+Malinowa 8
+205.0
+102
+!
+Klawiatura
+Mechaniczna
+6.0
+2004
+@
+Tulipanowa 4
+175.0
+103
+!
+Dywan
+Kolowowy, w pasy
+35.0
+2008
+!
+Zestaw Szklanek
+30 X 250 [ml]
+40.0
+2010
+@
+Klonowa 30
+260.0
+104
+!
+Latarka
+wodoodporna
+4.0
+2009
+!
+Cukierki
+Karmelowe
+9.0
+2011
+!
+Pasta do butow
+Czarna
+15.0
+2012
+!
+TV
+55 cali LG
+30.0
+2013
+@
+Akacjowa 21
+290.0
+105
+!
+Pralka
+"Frania"
+20.0
+2014
+!
+Karma dla psa
+pelno wartosciowa
+10.0
+2015
+@
+NIE MA MNIE
+99999.0
+0
+@
+Krucza 35
+180.0
+106
+!
+Szafka Nocna
+Drewniania
+30.0
+2016
+!
+Lampka Nocna
+metalowa
+15.0
+2017
